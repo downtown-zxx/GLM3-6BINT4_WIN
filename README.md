@@ -1,0 +1,2 @@
+# GLM3-6BINT4_WIN
+GLM3-6B Quantization to INT4
